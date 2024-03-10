@@ -65,6 +65,8 @@ $(function () {
     // Get the hour from the id of the time-block
     var blockHour = parseInt($(this).attr("id").split("-")[1]);
 
+    console.log(blockHour);
+
     // Add or remove the past, present, or future class based on the current
     // hour
     if (blockHour < currentHour) {
