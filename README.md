@@ -6,6 +6,7 @@ UConn Bootcamp Work Day Scheduler
 ![work day scheduler with color code](image-1.png)
 
 https://github.com/khionewi/scheduler.git
+https://khionewi.github.io/scheduler/
 
 
 
